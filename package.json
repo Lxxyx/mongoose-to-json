@@ -1,5 +1,5 @@
 {
-  "name": "@meanie/mongoose-to-json",
+  "name": "@lxxyx/mongoose-to-json",
   "description": "A plugin for Mongoose to normalize JSON output",
   "version": "2.2.0",
   "homepage": "https://github.com/meanie/mongoose-to-json",

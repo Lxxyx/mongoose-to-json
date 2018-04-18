@@ -58,7 +58,7 @@ To a cleaner:
 
 ```json
 {
-  "id": "400e8324a71d4410b9dc3980b5f8cdea",
+  "_id": "400e8324a71d4410b9dc3980b5f8cdea",
   "name": "Item A"
 }
 ```
@@ -87,7 +87,7 @@ This will output:
 
 ```json
 {
-  "id": "400e8324a71d4410b9dc3980b5f8cdea",
+  "_id": "400e8324a71d4410b9dc3980b5f8cdea",
   "email": "test@test.com"
 }
 ```
